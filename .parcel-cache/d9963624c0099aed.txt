@@ -1,4 +1,4 @@
-5944
+6104
 72D:\IT\GoIT\goit-js-hw-09\node_modules\type-fest\source\set-optional.d.ts132975246013909396 0
 69D:\IT\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\regions\TK.js132975246123686121 0
 87D:\IT\GoIT\goit-js-hw-09\node_modules\dom-serializer\node_modules\entities\package.json132975245992580766 0
@@ -20,13 +20,14 @@
 42D:\IT\GoIT\goit-js-hw-09\package-lock.json132976321087827792 0
 46D:\IT\GoIT\goit-js-hw-09\node_modules\svgo\bin132975245967785967 1
 64D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\cache\lib\types.js132975245993777570 0
-55D:\IT\GoIT\goit-js-hw-09\node_modules\@msgpackr-extract132976311472566515 1
+55D:\IT\GoIT\goit-js-hw-09\node_modules\@msgpackr-extract132976321086865221 1
 69D:\IT\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\regions\WF.js132975246124675259 0
+120D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\objects\a7132976323470711990 1
 35D:\IT\GoIT\goit-js-hw-09\.gitignore132973396409134639 0
 65D:\IT\GoIT\goit-js-hw-09\node_modules\css-tree\lib\utils\clone.js132975245997129090 0
 63D:\IT\GoIT\goit-js-hw-09\node_modules\terser\lib\mozilla-ast.js132975246023258921 0
 59D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\fp\uniqueId.js132976321069286330 0
-29D:\IT\GoIT\goit-js-hw-09\dist132976323346699084 1
+29D:\IT\GoIT\goit-js-hw-09\dist132976325805606303 1
 57D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\defaultTo.js132976321051241090 0
 76D:\IT\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\features\push-api.js132975246122173249 0
 57D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\fp\omitBy.js132976321062110027 0
@@ -45,9 +46,9 @@
 61D:\IT\GoIT\goit-js-hw-09\node_modules\react-refresh\README.md132975245992840096 0
 55D:\IT\GoIT\goit-js-hw-09\node_modules\parcel\lib\bin.js132975245968773747 0
 80D:\IT\GoIT\goit-js-hw-09\node_modules\flatpickr\dist\esm\plugins\scrollPlugin.js132975475630340214 0
-43D:\IT\GoIT\goit-js-hw-09\src\js\02-timer.js132975570828555886 0
+43D:\IT\GoIT\goit-js-hw-09\src\js\02-timer.js132976325324673421 0
 57D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\fp\isDate.js132976321056921204 0
-37D:\IT\GoIT\goit-js-hw-09\node_modules132976321087019945 1
+37D:\IT\GoIT\goit-js-hw-09\node_modules132976323353642876 1
 57D:\IT\GoIT\goit-js-hw-09\node_modules\type-fest\readme.md132975245969970605 0
 50D:\IT\GoIT\goit-js-hw-09\node_modules\caniuse-lite132975246125094564 1
 59D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\fp\iteratee.js132976321059377330 0
@@ -68,6 +69,7 @@
 61D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\_baseIsRegExp.js132976321026681617 0
 55D:\IT\GoIT\goit-js-hw-09\node_modules\nan\doc\errors.md132975246015283813 0
 45D:\IT\GoIT\goit-js-hw-09\src\03-promises.html132976314380961432 0
+120D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\objects\78132976323467493581 1
 51D:\IT\GoIT\goit-js-hw-09\node_modules\tr46\index.js132975245969461994 0
 66D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\fp\defaultsDeepAll.js132976321051211164 0
 80D:\IT\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\features\cryptography.js132975246042201954 0
@@ -137,6 +139,8 @@
 42D:\IT\GoIT\goit-js-hw-09\node_modules\.bin132976321086875195 1
 63D:\IT\GoIT\goit-js-hw-09\node_modules\svgo\dist\svgo.browser.js132975246037378645 0
 83D:\IT\GoIT\goit-js-hw-09\node_modules\lmdb\prebuilds\linux-x64\node.abi93.musl.node132975246121475130 0
+58D:\IT\GoIT\goit-js-hw-09\node_modules\yaml\types\binary.js132975245970219943 0
+44D:\IT\GoIT\goit-js-hw-09\node_modules\.cache132976323353642876 1
 47D:\IT\GoIT\goit-js-hw-09\node_modules\term-size132975245992455424 1
 44D:\IT\GoIT\goit-js-hw-09\node_modules\@babel132975245937959517 1
 84D:\IT\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\features\css-font-stretch.js132975246050345532 0
@@ -165,6 +169,7 @@
 59D:\IT\GoIT\goit-js-hw-09\node_modules\yaml\browser\types.js132975246023398562 0
 63D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\_createAssigner.js132976321030117551 0
 69D:\IT\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\regions\IM.js132975246111551480 0
+134D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\refs\remotes\origin\HEAD132976323440190155 0
 56D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\_baseXor.js132976321029110238 0
 42D:\IT\GoIT\goit-js-hw-09\node_modules\@swc132975245937929581 1
 47D:\IT\GoIT\goit-js-hw-09\node_modules\minimatch132976321020037695 1
@@ -213,7 +218,7 @@
 58D:\IT\GoIT\goit-js-hw-09\node_modules\terser\dist\.gitkeep132975245966539315 0
 87D:\IT\GoIT\goit-js-hw-09\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\module.h132975246041822982 0
 66D:\IT\GoIT\goit-js-hw-09\node_modules\webidl-conversions\README.md132975245967536630 0
-49D:\IT\GoIT\goit-js-hw-09\node_modules\strip-outer132976321018950599 1
+49D:\IT\GoIT\goit-js-hw-09\node_modules\strip-outer132976321019928001 1
 54D:\IT\GoIT\goit-js-hw-09\node_modules\path-is-absolute132976321019788384 1
 49D:\IT\GoIT\goit-js-hw-09\node_modules\ansi-styles132975245972505014 1
 69D:\IT\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\regions\NO.js132975246120818427 0
@@ -228,16 +233,13 @@
 68D:\IT\GoIT\goit-js-hw-09\node_modules\type-fest\source\asyncify.d.ts132975245979720893 0
 58D:\IT\GoIT\goit-js-hw-09\node_modules\flatpickr\dist\types132975475634608805 1
 73D:\IT\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\regions\alt-oc.js132975246001023403 0
-55D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\bindKey.js132976321048451222 0
-46D:\IT\GoIT\goit-js-hw-09\node_modules\error-ex132975245970180064 1
-62D:\IT\GoIT\goit-js-hw-09\node_modules\yaml\dist\test-events.js132975246021123558 0
 56D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\fp\sumBy.js132976321066743133 0
 52D:\IT\GoIT\goit-js-hw-09\node_modules\domelementtype132975245983840306 1
 46D:\IT\GoIT\goit-js-hw-09\node_modules\inherits132976321020715879 1
 43D:\IT\GoIT\goit-js-hw-09\node_modules\async132976321029818349 1
 63D:\IT\GoIT\goit-js-hw-09\node_modules\flatpickr\dist\l10n\pl.js132975475629941323 0
 81D:\IT\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\features\vector-effect.js132975246124186465 0
-52D:\IT\GoIT\goit-js-hw-09\node_modules\balanced-match132976321019748497 1
+52D:\IT\GoIT\goit-js-hw-09\node_modules\balanced-match132976321020267083 1
 72D:\IT\GoIT\goit-js-hw-09\node_modules\electron-to-chromium\versions.json132975245994106684 0
 67D:\IT\GoIT\goit-js-hw-09\node_modules\flatpickr\dist\esm\l10n\sl.js132975475631018402 0
 78D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\utils\src\generateCertificate.js132975245997981202 0
@@ -273,6 +275,7 @@
 47D:\IT\GoIT\goit-js-hw-09\node_modules\commander132975245988856044 1
 74D:\IT\GoIT\goit-js-hw-09\node_modules\filename-reserved-regex\package.json132976321016566982 0
 95D:\IT\GoIT\goit-js-hw-09\node_modules\terser\node_modules\source-map\lib\source-map-consumer.js132975245995822161 0
+115D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\index.html132976323455237946 0
 63D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\fp\intersection.js132976321056061330 0
 54D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\forOwn.js132976321054376222 0
 68D:\IT\GoIT\goit-js-hw-09\node_modules\svgo\plugins\preset-default.js132975246020683731 0
@@ -325,13 +328,16 @@
 56D:\IT\GoIT\goit-js-hw-09\node_modules\filenamify\license132976321016616841 0
 46D:\IT\GoIT\goit-js-hw-09\node_modules\entities132975246000644428 1
 56D:\IT\GoIT\goit-js-hw-09\node_modules\nullthrows\LICENSE132975245967835841 0
+55D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\bindKey.js132976321048451222 0
+46D:\IT\GoIT\goit-js-hw-09\node_modules\error-ex132975245970180064 1
+62D:\IT\GoIT\goit-js-hw-09\node_modules\yaml\dist\test-events.js132975246021123558 0
 65D:\IT\GoIT\goit-js-hw-09\node_modules\htmlnano\lib\presets\max.js132975245994625314 0
 85D:\IT\GoIT\goit-js-hw-09\node_modules\@babel\helper-validator-identifier\lib\index.js132975245970778441 0
 65D:\IT\GoIT\goit-js-hw-09\node_modules\yaml\dist\legacy-exports.js132975245993887270 0
 58D:\IT\GoIT\goit-js-hw-09\node_modules\escape-string-regexp132975245970130183 1
 84D:\IT\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\features\broadcastchannel.js132975246033932278 0
 76D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\transformer-babel\lib\utils.js132975245999092860 0
-61D:\IT\GoIT\goit-js-hw-09\node_modules\filename-reserved-regex132976321018960588 1
+61D:\IT\GoIT\goit-js-hw-09\node_modules\filename-reserved-regex132976321019928001 1
 80D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\transformer-react-refresh-wrap\lib132975245973799146 1
 78D:\IT\GoIT\goit-js-hw-09\node_modules\notiflix\build\notiflix-confirm-aio.d.ts132975545222609315 0
 61D:\IT\GoIT\goit-js-hw-09\node_modules\mdn-data\css\units.json132975246009643745 0
@@ -342,7 +348,7 @@
 56D:\IT\GoIT\goit-js-hw-09\node_modules\msgpackr\pack.d.ts132975246008855850 0
 62D:\IT\GoIT\goit-js-hw-09\node_modules\svgo\lib\svgo\plugins.js132975246019466440 0
 64D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\fp\dropLastWhile.js132976321051761106 0
-48D:\IT\GoIT\goit-js-hw-09\node_modules\filenamify132976321021354178 1
+48D:\IT\GoIT\goit-js-hw-09\node_modules\filenamify132976321022102185 1
 59D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\fp\overSome.js132976321062508953 0
 66D:\IT\GoIT\goit-js-hw-09\node_modules\flatpickr\dist\l10n\ckb.d.ts132975475633082893 0
 66D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\workers\lib\index.js132975245997238790 0
@@ -356,7 +362,7 @@
 47D:\IT\GoIT\goit-js-hw-09\node_modules\flatpickr132975475632165327 1
 89D:\IT\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\features\css-placeholder-shown.js132975246051646958 0
 61D:\IT\GoIT\goit-js-hw-09\node_modules\whatwg-url\package.json132975245992909897 0
-46D:\IT\GoIT\goit-js-hw-09\node_modules\make-dir132976321017624146 1
+46D:\IT\GoIT\goit-js-hw-09\node_modules\make-dir132976321020735830 1
 59D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\fp\toNumber.js132976321068009752 0
 77D:\IT\GoIT\goit-js-hw-09\node_modules\terser\node_modules\commander\Readme.md132975245979591261 0
 57D:\IT\GoIT\goit-js-hw-09\node_modules\terser\CHANGELOG.md132975246029690735 0
@@ -449,7 +455,7 @@
 86D:\IT\GoIT\goit-js-hw-09\node_modules\terser\node_modules\source-map\lib\base64-vlq.js132975245988612093 0
 73D:\IT\GoIT\goit-js-hw-09\node_modules\css-tree\lib\syntax\atrule\index.js132975246032754773 0
 82D:\IT\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\features\css-cross-fade.js132975246049637437 0
-46D:\IT\GoIT\goit-js-hw-09\node_modules\jsonfile132976321019808439 1
+46D:\IT\GoIT\goit-js-hw-09\node_modules\jsonfile132976321020715879 1
 55D:\IT\GoIT\goit-js-hw-09\node_modules\lines-and-columns132975245970578982 1
 54D:\IT\GoIT\goit-js-hw-09\node_modules\base-x\README.md132975245971157430 0
 56D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\overArgs.js132976321062399251 0
@@ -458,6 +464,7 @@
 60D:\IT\GoIT\goit-js-hw-09\node_modules\is-arrayish\.npmignore132975245967556581 0
 47D:\IT\GoIT\goit-js-hw-09\node_modules\type-fest132975245996929653 1
 57D:\IT\GoIT\goit-js-hw-09\node_modules\yaml\browser\seq.js132975246018906287 0
+132D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\03-promises.efd32145.js.map132976323455227965 0
 44D:\IT\GoIT\goit-js-hw-09\node_modules\lodash132976321071490449 1
 101D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\foo\bar.js132975245983810383 0
 68D:\IT\GoIT\goit-js-hw-09\node_modules\@types\parse-json\package.json132975245970519152 0
@@ -483,6 +490,8 @@
 58D:\IT\GoIT\goit-js-hw-09\node_modules\p-limit\package.json132976321019050335 0
 59D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\fp\padChars.js132976321062678498 0
 76D:\IT\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\features\bloburls.js132975246032764752 0
+117D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\objects132976323471021147 1
+125D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\02-timer.f9388f03.js132976323455377568 0
 67D:\IT\GoIT\goit-js-hw-09\node_modules\source-map-support\LICENSE.md132975245982453630 0
 76D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\transformer-babel\src\utils.js132975246000614486 0
 53D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\unset.js132976321069485863 0
@@ -538,7 +547,7 @@
 56D:\IT\GoIT\goit-js-hw-09\node_modules\tslib\tslib.es6.js132975245971775771 0
 56D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\_hashHas.js132976321032940018 0
 69D:\IT\GoIT\goit-js-hw-09\node_modules\nan\nan_converters_pre_43_inl.h132975245991626617 0
-45D:\IT\GoIT\goit-js-hw-09\node_modules\p-limit132976321019738505 1
+45D:\IT\GoIT\goit-js-hw-09\node_modules\p-limit132976321020596203 1
 81D:\IT\GoIT\goit-js-hw-09\node_modules\type-fest\source\union-to-intersection.d.ts132975246019885931 0
 87D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\runtime-js\lib\helpers\node\css-loader.js132975245993608023 0
 46D:\IT\GoIT\goit-js-hw-09\node_modules\p-locate132976321020596203 1
@@ -593,6 +602,7 @@
 57D:\IT\GoIT\goit-js-hw-09\node_modules\msgpackr\index.d.ts132975246008606518 0
 56D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\valuesIn.js132976321070193955 0
 57D:\IT\GoIT\goit-js-hw-09\node_modules\terser\bin\uglifyjs132975245971107564 0
+54D:\IT\GoIT\goit-js-hw-09\dist\02-timer.ae334a12.js.map132976325805302025 0
 61D:\IT\GoIT\goit-js-hw-09\node_modules\yaml\types\timestamp.js132975246022237224 0
 53D:\IT\GoIT\goit-js-hw-09\node_modules\posthtml-parser132975245982783130 1
 77D:\IT\GoIT\goit-js-hw-09\node_modules\htmlnano\lib\modules\removeUnusedCss.js132975246009593871 0
@@ -644,6 +654,7 @@
 52D:\IT\GoIT\goit-js-hw-09\node_modules\supports-color132975245972495007 1
 59D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\_baseCreate.js132976321024960784 0
 54D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\negate.js132976321061661223 0
+128D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\03-promises.2c761612.js132976323455208026 0
 42D:\IT\GoIT\goit-js-hw-09\node_modules\svgo132975246037807508 1
 75D:\IT\GoIT\goit-js-hw-09\node_modules\source-map\dist\source-map.min.js.map132975246012668616 0
 73D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\utils\test\throttle.test.js132975246033203584 0
@@ -665,6 +676,7 @@
 56D:\IT\GoIT\goit-js-hw-09\node_modules\async\mapSeries.js132976321027040791 0
 42D:\IT\GoIT\goit-js-hw-09\node_modules\tr46132975245971307017 1
 80D:\IT\GoIT\goit-js-hw-09\node_modules\svgo\plugins\removeUselessStrokeAndFill.js132975246029221446 0
+138D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\01-color-switcher.5048cd28.js.map132976323455148195 0
 55D:\IT\GoIT\goit-js-hw-09\node_modules\yaml\dist\util.js132975246025700499 0
 65D:\IT\GoIT\goit-js-hw-09\node_modules\weak-lru-cache\package.json132975245982962664 0
 70D:\IT\GoIT\goit-js-hw-09\node_modules\picocolors\picocolors.browser.js132975245967716159 0
@@ -672,7 +684,7 @@
 60D:\IT\GoIT\goit-js-hw-09\node_modules\nth-check\lib\index.js132975245969661429 0
 62D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\wrapperReverse.js132976321070682601 0
 60D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\_mapCacheHas.js132976321036939331 0
-51D:\IT\GoIT\goit-js-hw-09\node_modules\trim-repeated132976321018930650 1
+51D:\IT\GoIT\goit-js-hw-09\node_modules\trim-repeated132976321019918023 1
 67D:\IT\GoIT\goit-js-hw-09\node_modules\flatpickr\dist\esm\l10n\ro.js132975475630210547 0
 91D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\runtime-js\src\helpers\browser\html-loader.js132975245998703244 0
 64D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\_customOmitClone.js132976321031573665 0
@@ -726,6 +738,7 @@
 50D:\IT\GoIT\goit-js-hw-09\node_modules\yaml\browser132975246024379528 1
 85D:\IT\GoIT\goit-js-hw-09\node_modules\posthtml\node_modules\posthtml-parser\readme.md132975245980239494 0
 50D:\IT\GoIT\goit-js-hw-09\dist\02-timer.6799696b.js132976323346050843 0
+134D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\01-color-switcher.5bb0854e.js132976323455158170 0
 57D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\fp\assign.js132976321047101456 0
 74D:\IT\GoIT\goit-js-hw-09\node_modules\svgo\plugins\removeElementsByAttr.js132975246024309704 0
 62D:\IT\GoIT\goit-js-hw-09\node_modules\node-addon-api\README.md132975246001113165 0
@@ -754,6 +767,7 @@
 55D:\IT\GoIT\goit-js-hw-09\node_modules\yaml\parse-cst.js132975246008636432 0
 76D:\IT\GoIT\goit-js-hw-09\node_modules\type-fest\source\iterable-element.d.ts132975245998130830 0
 57D:\IT\GoIT\goit-js-hw-09\node_modules\is-json\.travis.yml132975245979840576 0
+120D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\objects\0d132976323462050886 1
 51D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\now.js132976321061820786 0
 62D:\IT\GoIT\goit-js-hw-09\node_modules\lmdb\src\compression.cpp132975246038016948 0
 64D:\IT\GoIT\goit-js-hw-09\node_modules\mdn-data\css\at-rules.json132975245982264153 0
@@ -765,9 +779,9 @@
 56D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\_baseNth.js132976321027111269 0
 52D:\IT\GoIT\goit-js-hw-09\node_modules\yaml\scalar.js132975246013939290 0
 69D:\IT\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\regions\AT.js132975246019836067 0
+65D:\IT\GoIT\goit-js-hw-09\node_modules\svgo\plugins\removeTitle.js132975246028133515 0
 65D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\_createAggregator.js132976321030097614 0
 48D:\IT\GoIT\goit-js-hw-09\node_modules\yaml\types132975246022167496 1
-65D:\IT\GoIT\goit-js-hw-09\node_modules\svgo\plugins\removeTitle.js132975246028133515 0
 61D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\fp\startsWith.js132976321066214569 0
 60D:\IT\GoIT\goit-js-hw-09\node_modules\path-exists\index.d.ts132976321017783730 0
 75D:\IT\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\features\picture.js132975246121744370 0
@@ -777,6 +791,7 @@
 51D:\IT\GoIT\goit-js-hw-09\node_modules\yaml\types.js132975246023849808 0
 68D:\IT\GoIT\goit-js-hw-09\node_modules\mdn-data\css\units.schema.json132975246010833137 0
 64D:\IT\GoIT\goit-js-hw-09\node_modules\picocolors\picocolors.d.ts132975245979840576 0
+125D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\02-timer.6754fc4e.js132976323455178106 0
 58D:\IT\GoIT\goit-js-hw-09\node_modules\path-exists\index.js132976321019040364 0
 76D:\IT\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\features\promises.js132975246122053562 0
 55D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\bindAll.js132976321048321183 0
@@ -801,7 +816,6 @@
 57D:\IT\GoIT\goit-js-hw-09\node_modules\nan\include_dirs.js132975245969681376 0
 67D:\IT\GoIT\goit-js-hw-09\node_modules\v8-compile-cache\package.json132975245969621542 0
 51D:\IT\GoIT\goit-js-hw-09\node_modules\yaml\util.mjs132975246027582143 0
-58D:\IT\GoIT\goit-js-hw-09\node_modules\yaml\types\binary.js132975245970219943 0
 56D:\IT\GoIT\goit-js-hw-09\node_modules\yaml\types\omap.js132975245995263653 0
 60D:\IT\GoIT\goit-js-hw-09\node_modules\minimatch\package.json132976321019319615 0
 61D:\IT\GoIT\goit-js-hw-09\node_modules\domutils\lib\feeds.d.ts132975245998140801 0
@@ -873,6 +887,7 @@
 81D:\IT\GoIT\goit-js-hw-09\node_modules\lmdb\dependencies\lz4\lib\lz4frame_static.h132975246039702430 0
 53D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\curry.js132976321050581325 0
 69D:\IT\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\regions\PN.js132975246121854079 0
+120D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\objects\0c132976323457824806 1
 54D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\fp\all.js132976321046351180 0
 60D:\IT\GoIT\goit-js-hw-09\node_modules\yaml\browser\schema.js132975246017290425 0
 67D:\IT\GoIT\goit-js-hw-09\node_modules\type-fest\source\entries.d.ts132975245994375965 0
@@ -897,7 +912,7 @@
 69D:\IT\GoIT\goit-js-hw-09\node_modules\yaml\browser\types\timestamp.js132975246021423234 0
 62D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\_createPadding.js132976321030496555 0
 64D:\IT\GoIT\goit-js-hw-09\node_modules\yaml\browser\dist\index.js132975245982882864 0
-77D:\IT\GoIT\goit-js-hw-09\node_modules\gh-pages\node_modules\commander\typings132976321021563647 1
+77D:\IT\GoIT\goit-js-hw-09\node_modules\gh-pages\node_modules\commander\typings132976321021683296 1
 63D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\watcher\src\macos132975246008456926 1
 52D:\IT\GoIT\goit-js-hw-09\node_modules\svgo\README.md132975246037877330 0
 65D:\IT\GoIT\goit-js-hw-09\node_modules\flatpickr\dist\l10n\be.d.ts132975475632803618 0
@@ -1029,7 +1044,7 @@
 55D:\IT\GoIT\goit-js-hw-09\node_modules\semver\bin\semver132975245968334509 0
 69D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\workers\lib\cpuCount.js132975245993598040 0
 69D:\IT\GoIT\goit-js-hw-09\node_modules\webidl-conversions\lib\index.js132975245971207322 0
-40D:\IT\GoIT\goit-js-hw-09\dist\index.html132976323346010923 0
+40D:\IT\GoIT\goit-js-hw-09\dist\index.html132976324626150488 0
 57D:\IT\GoIT\goit-js-hw-09\node_modules\weak-lru-cache\dist132975245966055610 1
 58D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\fp\allPass.js132976321046376396 0
 58D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\fp\bindKey.js132976321048501612 0
@@ -1060,6 +1075,7 @@
 55D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\fp\find.js132976321052941149 0
 64D:\IT\GoIT\goit-js-hw-09\node_modules\utility-types\CHANGELOG.md132975245993927163 0
 82D:\IT\GoIT\goit-js-hw-09\node_modules\terser\lib\compress\drop-side-effect-free.js132975246011899315 0
+124D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\COMMIT_EDITMSG132976323470333013 0
 69D:\IT\GoIT\goit-js-hw-09\node_modules\utility-types\dist\index.js.map132975245992405549 0
 58D:\IT\GoIT\goit-js-hw-09\node_modules\chalk\source\util.js132975245971177382 0
 95D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\runtime-js\src\helpers\browser\import-polyfill.js132975246008117819 0
@@ -1137,6 +1153,7 @@
 53D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\floor.js132976321054001182 0
 74D:\IT\GoIT\goit-js-hw-09\node_modules\utility-types\dist\mapped-types.d.ts132975245998453432 0
 82D:\IT\GoIT\goit-js-hw-09\node_modules\terser\node_modules\source-map\lib\base64.js132975245992445442 0
+134D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\logs\refs\heads\gh-pages132976323470761835 0
 81D:\IT\GoIT\goit-js-hw-09\node_modules\terser\node_modules\source-map\CHANGELOG.md132975245968194868 0
 69D:\IT\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\regions\PY.js132975246122203141 0
 72D:\IT\GoIT\goit-js-hw-09\node_modules\utility-types\dist\mapped-types.js132975245973629630 0
@@ -1170,6 +1187,7 @@
 79D:\IT\GoIT\goit-js-hw-09\node_modules\make-dir\node_modules\semver\CHANGELOG.md132976321021703276 0
 57D:\IT\GoIT\goit-js-hw-09\node_modules\type-fest\base.d.ts132975245982154461 0
 59D:\IT\GoIT\goit-js-hw-09\node_modules\nan\doc\persistent.md132975246021023827 0
+127D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\01-color-switcher.html132976323455168155 0
 55D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\fp\init.js132976321055931097 0
 55D:\IT\GoIT\goit-js-hw-09\node_modules\type-fest\license132975245966085527 0
 51D:\IT\GoIT\goit-js-hw-09\node_modules\svgo\lib\svgo132975246037997008 1
@@ -1271,6 +1289,7 @@
 68D:\IT\GoIT\goit-js-hw-09\node_modules\type-fest\source\value-of.d.ts132975246020464337 0
 69D:\IT\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\regions\CX.js132975246058520516 0
 58D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\_baseIsSet.js132976321026711258 0
+139D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\hooks\pre-merge-commit.sample132976323360679421 0
 67D:\IT\GoIT\goit-js-hw-09\node_modules\mdn-data\api\inheritance.json132975245994276231 0
 59D:\IT\GoIT\goit-js-hw-09\node_modules\async\detectSeries.js132976321024831220 0
 64D:\IT\GoIT\goit-js-hw-09\node_modules\css-tree\lib\syntax\atrule132975246042182018 1
@@ -1301,6 +1320,7 @@
 79D:\IT\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\features\css-filters.js132975246050136114 0
 82D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\watcher\src\macos\FSEventsBackend.hh132975246008496814 0
 59D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\_baseIsDate.js132976321026401084 0
+133D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\hooks\pre-rebase.sample132976323360689405 0
 59D:\IT\GoIT\goit-js-hw-09\node_modules\trim-repeated\license132976321019179988 0
 82D:\IT\GoIT\goit-js-hw-09\node_modules\@swc\helpers\lib\_interop_require_default.js132975246024289776 0
 62D:\IT\GoIT\goit-js-hw-09\node_modules\terser\lib\propmangle.js132975246026169235 0
@@ -1384,6 +1404,7 @@
 59D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\types\LICENSE132975245966589179 0
 67D:\IT\GoIT\goit-js-hw-09\node_modules\@swc\helpers\lib\_defaults.js132975246019516320 0
 80D:\IT\GoIT\goit-js-hw-09\node_modules\terser\node_modules\commander\package.json132975245969920740 0
+120D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\objects\d7132976323465279750 1
 56D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\fp\isNil.js132976321058433640 0
 88D:\IT\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\features\document-execcommand.js132975246102673075 0
 55D:\IT\GoIT\goit-js-hw-09\node_modules\terser\lib\cli.js132975246008476855 0
@@ -1484,6 +1505,7 @@
 83D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\core\src\public\MutableBundleGraph.js132975246038505626 0
 61D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\sortedIndexOf.js132976321065755787 0
 76D:\IT\GoIT\goit-js-hw-09\node_modules\svgo\plugins\convertEllipseToCircle.js132975245998723183 0
+120D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\objects\8b132976323463278167 1
 54D:\IT\GoIT\goit-js-hw-09\node_modules\parcel\README.md132975245988532309 0
 59D:\IT\GoIT\goit-js-hw-09\node_modules\htmlnano\CHANGELOG.md132975246033243474 0
 65D:\IT\GoIT\goit-js-hw-09\node_modules\flatpickr\dist\l10n\th.d.ts132975475635247094 0
@@ -1522,6 +1544,7 @@
 63D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\_baseSortedUniq.js132976321028231303 0
 79D:\IT\GoIT\goit-js-hw-09\node_modules\svgo\plugins\removeUnknownsAndDefaults.js132975246028382849 0
 64D:\IT\GoIT\goit-js-hw-09\node_modules\svgo\plugins\reusePaths.js132975246030938634 0
+120D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\objects\7e132976323464946718 1
 65D:\IT\GoIT\goit-js-hw-09\node_modules\node-addon-api\package.json132975245997428284 0
 56D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\template.js132976321067441260 0
 77D:\IT\GoIT\goit-js-hw-09\node_modules\notiflix\dist\notiflix-aio-3.2.5.min.js132975545220863919 0
@@ -1572,9 +1595,11 @@
 60D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\fp\mergeWith.js132976321061262287 0
 65D:\IT\GoIT\goit-js-hw-09\node_modules\svgo\plugins\_transforms.js132975245983152149 0
 56D:\IT\GoIT\goit-js-hw-09\node_modules\svgo\lib\parser.js132975246017310369 0
+159D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\objects\1b\fe75f01bb16a335393926d77fd1ff8463019ae132976323457924156 0
 56D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\diagnostic132975245979740838 1
 56D:\IT\GoIT\goit-js-hw-09\node_modules\async\package.json132976321029588960 0
 60D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\fp\partition.js132976321063087401 0
+159D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\objects\33\ffe7654b7bd40d416ca06369655068ac88bbeb132976323461365239 0
 82D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\watcher\src\macos\FSEventsBackend.cc132975245983740577 0
 67D:\IT\GoIT\goit-js-hw-09\node_modules\flatpickr\dist\esm\l10n\de.js132975475626400741 0
 52D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\last.js132976321059806179 0
@@ -1650,6 +1675,7 @@
 67D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\workers\src\Worker.js132975246021403321 0
 58D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\fp\zipWith.js132976321071310944 0
 63D:\IT\GoIT\goit-js-hw-09\node_modules\lmdb\dependencies\lz4\lib132975246049447940 1
+122D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\objects\pack132976323440299856 1
 93D:\IT\GoIT\goit-js-hw-09\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\sample-bdb.txt132975246121834167 0
 54D:\IT\GoIT\goit-js-hw-09\node_modules\stable\stable.js132975245970459304 0
 62D:\IT\GoIT\goit-js-hw-09\node_modules\node-gyp-build\README.md132976321021763088 0
@@ -1750,6 +1776,7 @@
 63D:\IT\GoIT\goit-js-hw-09\node_modules\flatpickr\dist\l10n\cs.js132975475626251137 0
 94D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\package-manager\test\fixtures\packages\peers-2.0132975246023929609 1
 62D:\IT\GoIT\goit-js-hw-09\node_modules\safe-buffer\package.json132975245969541767 0
+159D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\objects\37\7825bc47973ea0378571182a3a48137255c56c132976323463635062 0
 58D:\IT\GoIT\goit-js-hw-09\node_modules\resolve-from\license132975245969511831 0
 51D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\tap.js132976321067341540 0
 63D:\IT\GoIT\goit-js-hw-09\node_modules\flatpickr\dist\l10n\he.js132975475627517749 0
@@ -1800,9 +1827,9 @@
 90D:\IT\GoIT\goit-js-hw-09\node_modules\react-refresh\cjs\react-refresh-babel.development.js132975245970000548 0
 93D:\IT\GoIT\goit-js-hw-09\node_modules\react-refresh\cjs\react-refresh-babel.production.min.js132975245972584761 0
 75D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\transformer-babel\lib\flow.js132975245993907241 0
-52D:\IT\GoIT\goit-js-hw-09\node_modules\lmdb\prebuilds132975246051866365 1
 55D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\fp\bind.js132976321048251365 0
 76D:\IT\GoIT\goit-js-hw-09\node_modules\notiflix\build\notiflix-block-aio.d.ts132975545222599262 0
+52D:\IT\GoIT\goit-js-hw-09\node_modules\lmdb\prebuilds132975246051866365 1
 92D:\IT\GoIT\goit-js-hw-09\node_modules\react-refresh\cjs\react-refresh-runtime.development.js132975245979920345 0
 95D:\IT\GoIT\goit-js-hw-09\node_modules\react-refresh\cjs\react-refresh-runtime.production.min.js132975245982373866 0
 55D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\fp\pull.js132976321063740850 0
@@ -1955,6 +1982,7 @@
 67D:\IT\GoIT\goit-js-hw-09\node_modules\htmlnano\docs\babel.config.js132975245970269825 0
 58D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\fp\anyPass.js132976321046712093 0
 65D:\IT\GoIT\goit-js-hw-09\node_modules\node-addon-api\node_api.gyp132975245967297290 0
+159D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\objects\49\09a5ae62c483213b6c47d2c309e511a8608315132976323466189595 0
 54D:\IT\GoIT\goit-js-hw-09\node_modules\p-limit\index.js132976321017823635 0
 70D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\transformer-html\LICENSE132975245966649057 0
 59D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\_isLaziable.js132976321033857559 0
@@ -1969,6 +1997,7 @@
 60D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\intersection.js132976321056091193 0
 56D:\IT\GoIT\goit-js-hw-09\node_modules\css-tree\README.md132975246049587559 0
 65D:\IT\GoIT\goit-js-hw-09\node_modules\ordered-binary\package.json132975245982094650 0
+159D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\objects\c1\d38521919e7f9c1684dafcb1d413045340af90132976323469779898 0
 58D:\IT\GoIT\goit-js-hw-09\node_modules\ordered-binary\tests132975245974385093 1
 62D:\IT\GoIT\goit-js-hw-09\node_modules\htmlparser2\package.json132975245983281797 0
 68D:\IT\GoIT\goit-js-hw-09\node_modules\node-addon-api\tools\README.md132975246008277387 0
@@ -1997,7 +2026,7 @@
 78D:\IT\GoIT\goit-js-hw-09\node_modules\csso\lib\restructure\3-disjoinRuleset.js132975245971546393 0
 64D:\IT\GoIT\goit-js-hw-09\node_modules\nth-check\lib\compile.d.ts132975245992600721 0
 68D:\IT\GoIT\goit-js-hw-09\node_modules\nth-check\lib\compile.d.ts.map132975245980010110 0
-59D:\IT\GoIT\goit-js-hw-09\node_modules\make-dir\node_modules132976321012797061 1
+59D:\IT\GoIT\goit-js-hw-09\node_modules\make-dir\node_modules132976321071759721 1
 66D:\IT\GoIT\goit-js-hw-09\node_modules\nth-check\lib\index.d.ts.map132975245982453630 0
 64D:\IT\GoIT\goit-js-hw-09\node_modules\lodash.sortby\package.json132975245965779250 0
 66D:\IT\GoIT\goit-js-hw-09\node_modules\@types\parse-json\index.d.ts132975245969511831 0
@@ -2084,6 +2113,7 @@
 62D:\IT\GoIT\goit-js-hw-09\node_modules\@mischnic\json-sourcemap132975245970040439 1
 89D:\IT\GoIT\goit-js-hw-09\node_modules\@swc\helpers\src\_class_private_field_loose_base.js132975246039383282 0
 63D:\IT\GoIT\goit-js-hw-09\node_modules\flatpickr\dist\l10n\th.js132975475631347515 0
+120D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\objects\37132976323463938444 1
 73D:\IT\GoIT\goit-js-hw-09\node_modules\node-releases\data\release-schedule132975245973669480 1
 95D:\IT\GoIT\goit-js-hw-09\node_modules\node-releases\data\release-schedule\release-schedule.json132975245974405038 0
 76D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\core\lib\public\BundleGroup.js132975246023919616 0
@@ -2103,6 +2133,7 @@
 68D:\IT\GoIT\goit-js-hw-09\node_modules\nan\nan_callbacks_pre_12_inl.h132975245982044794 0
 58D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\reporter-cli132975245994794848 1
 56D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\conforms.js132976321050071327 0
+121D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\03-promises.html132976323455227965 0
 54D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\fp\xor.js132976321070752408 0
 74D:\IT\GoIT\goit-js-hw-09\node_modules\make-dir\node_modules\semver\LICENSE132976321016636789 0
 58D:\IT\GoIT\goit-js-hw-09\node_modules\nan\nan_converters.h132975245992869991 0
@@ -2195,6 +2226,7 @@
 63D:\IT\GoIT\goit-js-hw-09\node_modules\flatpickr\dist\l10n\et.js132975475626590234 0
 69D:\IT\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\regions\AM.js132975246008925669 0
 76D:\IT\GoIT\goit-js-hw-09\node_modules\make-dir\node_modules\semver\README.md132976321022042345 0
+173D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\objects\pack\pack-a6fc290953f748cc2a0d100699ab52262c7680a1.pack132976323438110097 0
 76D:\IT\GoIT\goit-js-hw-09\node_modules\make-dir\node_modules\semver\semver.js132976321021114839 0
 127D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-module-fallback\package.json132975246038974381 0
 113D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-main-directory132975246038804826 1
@@ -2283,6 +2315,7 @@
 55D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\pullAll.js132976321063800691 0
 60D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\fp\wrapperAt.js132976321070353485 0
 53D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\first.js132976321053371140 0
+114D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\logs132976323440240012 1
 76D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\transformer-babel\src\types.js132975245998011137 0
 54D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\flake.nix132976321071500420 0
 57D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\_toSource.js132976321045251678 0
@@ -2309,7 +2342,7 @@
 60D:\IT\GoIT\goit-js-hw-09\node_modules\color-convert\index.js132975245970908120 0
 55D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\groupBy.js132976321055121308 0
 50D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\gt.js132976321055240978 0
-55D:\IT\GoIT\goit-js-hw-09\dist\goit-js-hw-09.59712999.js132976314384304983 0
+55D:\IT\GoIT\goit-js-hw-09\dist\goit-js-hw-09.59712999.js132976324625681755 0
 84D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\core\src\requests\ValidationRequest.js132975246050415383 0
 64D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\_iteratorToArray.js132976321034166749 0
 63D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\_createBaseEach.js132976321030167439 0
@@ -2430,6 +2463,7 @@
 51D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\nth.js132976321061880630 0
 81D:\IT\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\features\css-image-set.js132975246050561407 0
 54D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\number.js132976321061950444 0
+133D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\hooks\commit-msg.sample132976323360639530 0
 54D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\object.js132976321062010298 0
 69D:\IT\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\regions\GM.js132975246110424494 0
 74D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\watcher\src\watchman\BSER.cc132975245979950277 0
@@ -2583,7 +2617,7 @@
 54D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\toPath.js132976321068179294 0
 58D:\IT\GoIT\goit-js-hw-09\node_modules\async\concatLimit.js132976321024030985 0
 56D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\toString.js132976321068338874 0
-46D:\IT\GoIT\goit-js-hw-09\dist\03-promises.html132976323346030900 0
+46D:\IT\GoIT\goit-js-hw-09\dist\03-promises.html132976324626160466 0
 55D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\toUpper.js132976321068438596 0
 69D:\IT\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\regions\UZ.js132975246124103040 0
 70D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\transformer-posthtml\src132975245973809092 1
@@ -2640,6 +2674,7 @@
 57D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\fp\pickBy.js132976321063416528 0
 60D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\wrapperValue.js132976321070732466 0
 51D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\zip.js132976321071041645 0
+159D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\objects\72\9ae1c9aa3f0b407aeb56d76a5cea2105be48ed132976323460472418 0
 69D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\utils\src\DefaultMap.js132975245994286213 0
 67D:\IT\GoIT\goit-js-hw-09\node_modules\flatpickr\dist\esm\l10n\hu.js132975475627637429 0
 61D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\zipObjectDeep.js132976321071281004 0
@@ -2649,6 +2684,7 @@
 58D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\_arrayEach.js132976321021334242 0
 74D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\_createRelationalOperation.js132976321031304380 0
 63D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\_arrayEachRight.js132976321021593544 0
+159D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\objects\c4\a823944d9cc95d56d9a65ee4770127600a99f5132976323467533325 0
 59D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\_arrayEvery.js132976321021812947 0
 67D:\IT\GoIT\goit-js-hw-09\node_modules\flatpickr\dist\esm\l10n\ka.js132975475628554980 0
 69D:\IT\GoIT\goit-js-hw-09\node_modules\cosmiconfig\dist\types.d.ts.map132975246010843109 0
@@ -2724,6 +2760,7 @@
 60D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\_baseInRange.js132976321026221569 0
 57D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\fp\keysIn.js132976321059666555 0
 65D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\_baseIntersection.js132976321026251491 0
+159D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\objects\9e\1e2a996f963a690d0da13cc6ed39a178ac2aad132976323468168976 0
 66D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\fp\matchesProperty.js132976321060484375 0
 73D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\core\test\fixtures\main-mjs132975246051289441 1
 59D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\_baseInvoke.js132976321026331302 0
@@ -2919,6 +2956,7 @@
 57D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\_nodeUtil.js132976321041616818 0
 65D:\IT\GoIT\goit-js-hw-09\node_modules\css-select\lib\compile.d.ts132975246011052528 0
 57D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\_overRest.js132976321041836232 0
+159D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\objects\e3\6258687c8721f22f8675def0c71227be9a6050132976323462200815 0
 56D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\_Promise.js132976321041995814 0
 69D:\IT\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\regions\NG.js132975246120728681 0
 56D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\_safeGet.js132976321042285024 0
@@ -2941,9 +2979,9 @@
 69D:\IT\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\regions\GF.js132975246110284861 0
 82D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\source-map\dist\wasm-bindings-web.js132975245998673324 0
 59D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\_stackClear.js132976321043521729 0
-57D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\_stackGet.js132976321043591544 0
-91D:\IT\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\features\stricttransportsecurity.js132975246123209965 0
 85D:\IT\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\features\input-file-accept.js132975246112439110 0
+91D:\IT\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\features\stricttransportsecurity.js132975246123209965 0
+57D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\_stackGet.js132976321043591544 0
 57D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\_stackHas.js132976321043631441 0
 57D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\_stackSet.js132976321043681313 0
 65D:\IT\GoIT\goit-js-hw-09\node_modules\cosmiconfig\dist\types.d.ts132975246020404479 0
@@ -2980,7 +3018,7 @@
 54D:\IT\GoIT\goit-js-hw-09\node_modules\async\bower.json132976321029549067 0
 56D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\fp\array.js132976321046911566 0
 54D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\fp\ary.js132976321047021273 0
-63D:\IT\GoIT\goit-js-hw-09\dist\01-color-switcher.5048cd28.js.map132976314384304983 0
+63D:\IT\GoIT\goit-js-hw-09\dist\01-color-switcher.5048cd28.js.map132976324625661811 0
 64D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\fp\assignAllWith.js132976321047241097 0
 69D:\IT\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\regions\PG.js132975246121684539 0
 59D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\fp\assignIn.js132976321047291319 0
@@ -3172,6 +3210,7 @@
 66D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\watcher\src\Event.hh132975246008277387 0
 71D:\IT\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\features\wav.js132975246124382979 0
 57D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\fp\method.js132976321061312165 0
+109D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git132976323470771827 1
 54D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\fp\min.js132976321061421861 0
 56D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\fp\minBy.js132976321061471719 0
 56D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\fp\mixin.js132976321061501645 0
@@ -3188,11 +3227,13 @@
 55D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\fp\noop.js132976321061750969 0
 54D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\fp\now.js132976321061790868 0
 79D:\IT\GoIT\goit-js-hw-09\node_modules\entities\lib\generated\decode-data-xml.js132975245979870512 0
+133D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\hooks\pre-commit.sample132976323360669454 0
 112D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\@scope\pkg\foo\bar.js132975245982034817 0
 57D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\fp\object.js132976321061990333 0
 72D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\core\src\PackagerRunner.js132975246038804826 0
 120D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-false-glob\sub\a132975246023617954 1
 55D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\fp\omit.js132976321062040205 0
+123D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\index.101ee4ef.css132976323455227965 0
 76D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\core\test\EntryRequest.test.js132975246031278739 0
 62D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\optimizer-terser132975245971147479 1
 55D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\fp\over.js132976321062289539 0
@@ -3292,10 +3333,12 @@
 58D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\fp\trimEnd.js132976321068697919 0
 77D:\IT\GoIT\goit-js-hw-09\node_modules\css-tree\lib\syntax\node\Parentheses.js132975246039173853 0
 60D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\fp\trimStart.js132976321068747770 0
+114D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\info132976323360729297 1
 79D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\core\test\fixtures\custom-targets132975246050770861 1
 83D:\IT\GoIT\goit-js-hw-09\node_modules\css-tree\lib\definition-syntax\SyntaxError.js132975246042251829 0
 59D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\fp\truncate.js132976321068797662 0
 94D:\IT\GoIT\goit-js-hw-09\node_modules\dom-serializer\node_modules\entities\lib\encode.d.ts.map132975245994435815 0
+159D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\objects\b5\ca78d2423e6958a49f647a48ff0b19519c98c6132976323463958446 0
 59D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\fp\unescape.js132976321068947237 0
 63D:\IT\GoIT\goit-js-hw-09\node_modules\domutils\lib\helpers.d.ts132975245999102886 0
 58D:\IT\GoIT\goit-js-hw-09\node_modules\lodash\fp\unionBy.js132976321069066923 0
@@ -3356,7 +3399,7 @@
 54D:\IT\GoIT\goit-js-hw-09\node_modules\lmdb\SECURITY.md132975246049577591 0
 51D:\IT\GoIT\goit-js-hw-09\node_modules\lmdb\write.js132975246049108841 0
 86D:\IT\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\features\navigator-language.js132975246118148014 0
-52D:\IT\GoIT\goit-js-hw-09\dist\index.101ee4ef.css.map132976314384304983 0
+52D:\IT\GoIT\goit-js-hw-09\dist\index.101ee4ef.css.map132976324625352629 0
 75D:\IT\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\features\portals.js132975246121933882 0
 57D:\IT\GoIT\goit-js-hw-09\node_modules\lmdb\src\cursor.cpp132975246038126641 0
 58D:\IT\GoIT\goit-js-hw-09\node_modules\lmdb\src\lmdb-js.cpp132975246038495672 0
@@ -3391,6 +3434,8 @@
 89D:\IT\GoIT\goit-js-hw-09\node_modules\lmdb\prebuilds\darwin-x64\electron.abi99.glibc.node132975246050355522 0
 86D:\IT\GoIT\goit-js-hw-09\node_modules\lmdb\prebuilds\darwin-x64\node.abi102.glibc.node132975246056831125 0
 85D:\IT\GoIT\goit-js-hw-09\node_modules\lmdb\prebuilds\darwin-x64\node.abi72.glibc.node132975246108250300 0
+137D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\hooks\pre-applypatch.sample132976323360659493 0
+120D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\objects\9e132976323468494502 1
 68D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\runtime-service-worker132975245971147479 1
 85D:\IT\GoIT\goit-js-hw-09\node_modules\lmdb\prebuilds\darwin-x64\node.abi88.glibc.node132975246114154523 0
 85D:\IT\GoIT\goit-js-hw-09\node_modules\lmdb\prebuilds\darwin-x64\node.abi93.glibc.node132975246118028336 0
@@ -3640,6 +3685,7 @@
 70D:\IT\GoIT\goit-js-hw-09\node_modules\htmlnano\docs\versioned_sidebars132975246025909919 1
 65D:\IT\GoIT\goit-js-hw-09\node_modules\htmlnano\docs\versions.json132975246026109404 0
 100D:\IT\GoIT\goit-js-hw-09\node_modules\htmlnano\docs\versioned_docs\version-2.0.0\010-introduction.md132975246027222726 0
+141D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\hooks\fsmonitor-watchman.sample132976323360639530 0
 94D:\IT\GoIT\goit-js-hw-09\node_modules\htmlnano\docs\versioned_docs\version-2.0.0\030-config.md132975246028871919 0
 98D:\IT\GoIT\goit-js-hw-09\node_modules\htmlnano\docs\versioned_docs\version-2.0.0\060-contribute.md132975246032944275 0
 69D:\IT\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\regions\GP.js132975246110494308 0
@@ -3717,7 +3763,7 @@
 61D:\IT\GoIT\goit-js-hw-09\node_modules\domhandler\package.json132975245971775771 0
 83D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\transformer-raw\src\RawTransformer.js132975245970030445 0
 57D:\IT\GoIT\goit-js-hw-09\node_modules\fs-extra\lib\mkdirs132976321024781268 1
-52D:\IT\GoIT\goit-js-hw-09\dist\01-color-switcher.html132976323346010923 0
+52D:\IT\GoIT\goit-js-hw-09\dist\01-color-switcher.html132976324626150488 0
 55D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\core\test132975246050255776 1
 62D:\IT\GoIT\goit-js-hw-09\node_modules\@swc\helpers\src\_get.js132975246042211932 0
 55D:\IT\GoIT\goit-js-hw-09\node_modules\fs-extra\lib\move132976321025021220 1
@@ -3758,6 +3804,7 @@
 72D:\IT\GoIT\goit-js-hw-09\node_modules\flatpickr\src\style\flatpickr.styl132975475632424634 0
 69D:\IT\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\regions\PT.js132975246122103416 0
 65D:\IT\GoIT\goit-js-hw-09\node_modules\flatpickr\src\style\ie.styl132975475632454565 0
+120D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\objects\10132976323464603338 1
 64D:\IT\GoIT\goit-js-hw-09\node_modules\flatpickr\src\style\themes132975475632594187 1
 68D:\IT\GoIT\goit-js-hw-09\node_modules\flatpickr\src\style\_vars.styl132975475632195253 0
 76D:\IT\GoIT\goit-js-hw-09\node_modules\flatpickr\src\style\themes\airbnb.styl132975475632265059 0
@@ -3842,6 +3889,7 @@
 63D:\IT\GoIT\goit-js-hw-09\node_modules\flatpickr\dist\l10n\cy.js132975475626281066 0
 63D:\IT\GoIT\goit-js-hw-09\node_modules\flatpickr\dist\l10n\da.js132975475626320963 0
 70D:\IT\GoIT\goit-js-hw-09\node_modules\flatpickr\dist\l10n\default.d.ts132975475633362126 0
+120D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\objects\d9132976323460383253 1
 55D:\IT\GoIT\goit-js-hw-09\node_modules\async\doDuring.js132976321024930865 0
 68D:\IT\GoIT\goit-js-hw-09\node_modules\flatpickr\dist\l10n\default.js132975475626470553 0
 75D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\cache\lib\IDBCache.browser.js132975245971815668 0
@@ -3853,6 +3901,7 @@
 76D:\IT\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\features\auxclick.js132975246023418481 0
 63D:\IT\GoIT\goit-js-hw-09\node_modules\flatpickr\dist\l10n\fa.js132975475626630137 0
 63D:\IT\GoIT\goit-js-hw-09\node_modules\flatpickr\dist\l10n\fi.js132975475626650070 0
+129D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\02-timer.4233af01.js.map132976323455337678 0
 66D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\workers\src\index.js132975245997851566 0
 65D:\IT\GoIT\goit-js-hw-09\node_modules\flatpickr\dist\l10n\fo.d.ts132975475633611463 0
 63D:\IT\GoIT\goit-js-hw-09\node_modules\flatpickr\dist\l10n\fo.js132975475627238498 0
@@ -3929,6 +3978,7 @@
 63D:\IT\GoIT\goit-js-hw-09\node_modules\flatpickr\dist\l10n\vn.js132975475631736485 0
 68D:\IT\GoIT\goit-js-hw-09\node_modules\flatpickr\dist\l10n\zh-tw.d.ts132975475635566242 0
 66D:\IT\GoIT\goit-js-hw-09\node_modules\flatpickr\dist\l10n\zh-tw.js132975475631846183 0
+159D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\objects\0d\a1cf2dec88bc7f8be915eba58e2b40342dacae132976323461809055 0
 65D:\IT\GoIT\goit-js-hw-09\node_modules\flatpickr\dist\l10n\zh.d.ts132975475635695897 0
 69D:\IT\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\regions\SZ.js132975246123417490 0
 63D:\IT\GoIT\goit-js-hw-09\node_modules\flatpickr\dist\l10n\zh.js132975475632025696 0
@@ -4071,7 +4121,7 @@
 82D:\IT\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\features\css-appearance.js132975246042341583 0
 68D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\config-default\LICENSE132975245968803735 0
 64D:\IT\GoIT\goit-js-hw-09\node_modules\email-addresses\bower.json132976321021763088 0
-57D:\IT\GoIT\goit-js-hw-09\node_modules\email-addresses\lib132976321017125484 1
+57D:\IT\GoIT\goit-js-hw-09\node_modules\email-addresses\lib132976321022331566 1
 61D:\IT\GoIT\goit-js-hw-09\node_modules\email-addresses\LICENSE132976321016636789 0
 77D:\IT\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\features\maxlength.js132975246116920822 0
 70D:\IT\GoIT\goit-js-hw-09\node_modules\email-addresses\test\is_email.js132976321021533693 0
@@ -4186,6 +4236,7 @@
 62D:\IT\GoIT\goit-js-hw-09\node_modules\detect-libc\package.json132975245966529362 0
 59D:\IT\GoIT\goit-js-hw-09\node_modules\detect-libc\README.md132975245969561697 0
 68D:\IT\GoIT\goit-js-hw-09\node_modules\detect-libc\lib\detect-libc.js132975245982054755 0
+128D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\03-promises.efd32145.js132976323455237946 0
 55D:\IT\GoIT\goit-js-hw-09\node_modules\csso\CHANGELOG.md132975246026503424 0
 61D:\IT\GoIT\goit-js-hw-09\node_modules\chrome-trace-event\dist132975245979890438 1
 46D:\IT\GoIT\goit-js-hw-09\node_modules\csso\lib132975246024009372 1
@@ -4207,6 +4258,7 @@
 69D:\IT\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\regions\ID.js132975246111222359 0
 61D:\IT\GoIT\goit-js-hw-09\node_modules\csso\lib\replace\atrule132975246019636019 1
 69D:\IT\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\regions\ME.js132975246117030539 0
+120D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\objects\b5132976323464276103 1
 64D:\IT\GoIT\goit-js-hw-09\node_modules\csso\lib\replace\Atrule.js132975245993438476 0
 75D:\IT\GoIT\goit-js-hw-09\node_modules\csso\lib\replace\AttributeSelector.js132975245994246322 0
 68D:\IT\GoIT\goit-js-hw-09\node_modules\async\internal\createTester.js132976321024621700 0
@@ -4264,6 +4316,7 @@
 57D:\IT\GoIT\goit-js-hw-09\node_modules\css-tree\lib\walker132975246033612474 1
 67D:\IT\GoIT\goit-js-hw-09\node_modules\css-tree\lib\walker\create.js132975246009673664 0
 84D:\IT\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\features\css-color-adjust.js132975246049378124 0
+120D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\objects\62132976323468158994 1
 66D:\IT\GoIT\goit-js-hw-09\node_modules\css-tree\lib\walker\index.js132975246033632428 0
 91D:\IT\GoIT\goit-js-hw-09\node_modules\abortcontroller-polyfill\dist\polyfill-patch-fetch.js132975245988955852 0
 69D:\IT\GoIT\goit-js-hw-09\node_modules\css-tree\lib\tokenizer\const.js132975245999102886 0
@@ -4298,6 +4351,7 @@
 80D:\IT\GoIT\goit-js-hw-09\node_modules\css-tree\lib\syntax\node\MediaQueryList.js132975246038086752 0
 71D:\IT\GoIT\goit-js-hw-09\node_modules\css-tree\lib\syntax\config\mix.js132975246038206442 0
 98D:\IT\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\features\keyboardevent-getmodifierstate.js132975246113935101 0
+159D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\objects\fa\ab4d49fce07870501ecdd277dfd3d0b414729c132976323460883013 0
 72D:\IT\GoIT\goit-js-hw-09\node_modules\css-tree\lib\syntax\node\Number.js132975246038924515 0
 69D:\IT\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\regions\GN.js132975246110454412 0
 74D:\IT\GoIT\goit-js-hw-09\node_modules\css-tree\lib\syntax\node\Operator.js132975246039054158 0
@@ -4446,6 +4500,7 @@
 59D:\IT\GoIT\goit-js-hw-09\node_modules\caniuse-lite\dist\lib132975246123239878 1
 81D:\IT\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\features\link-icon-svg.js132975246116332401 0
 54D:\IT\GoIT\goit-js-hw-09\dist\02-timer.6799696b.js.map132976323346340050 0
+138D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\01-color-switcher.5bb0854e.js.map132976323455158170 0
 61D:\IT\GoIT\goit-js-hw-09\node_modules\@lezer\lr\dist\index.js132975245973519943 0
 74D:\IT\GoIT\goit-js-hw-09\node_modules\caniuse-lite\dist\unpacker\region.js132975246122272964 0
 73D:\IT\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\features\webgl.js132975246124502660 0
@@ -4456,6 +4511,7 @@
 90D:\IT\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\features\css-boxdecorationbreak.js132975246048699935 0
 72D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\core\src\Transformation.js132975246050056316 0
 64D:\IT\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\features132975246125004797 1
+172D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\objects\pack\pack-a6fc290953f748cc2a0d100699ab52262c7680a1.idx132976323438120083 0
 74D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\core\src\loadParcelPlugin.js132975246038106693 0
 67D:\IT\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\features.js132975246106398904 0
 63D:\IT\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\regions132975246125074628 1
@@ -4585,7 +4641,7 @@
 69D:\IT\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\regions\VG.js132975246124196438 0
 69D:\IT\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\regions\VU.js132975246124283244 0
 69D:\IT\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\regions\YT.js132975246125034734 0
-59D:\IT\GoIT\goit-js-hw-09\dist\01-color-switcher.5048cd28.js132976314384304983 0
+59D:\IT\GoIT\goit-js-hw-09\dist\01-color-switcher.5048cd28.js132976324625661811 0
 108D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\foo\nested\baz.js132975245994515603 0
 69D:\IT\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\regions\ZM.js132975246125064669 0
 84D:\IT\GoIT\goit-js-hw-09\node_modules\abortcontroller-polyfill\src\abortableFetch.js132975245968334509 0
@@ -4711,6 +4767,7 @@
 72D:\IT\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\features\hevc.js132975246110743675 0
 75D:\IT\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\features\history.js132975246110833402 0
 86D:\IT\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\features\html-media-capture.js132975246111092699 0
+159D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\objects\1d\e461abeadbbe60a9a0f312e5e3b36ccace22c6132976323459320986 0
 81D:\IT\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\features\html5semantic.js132975246111112647 0
 73D:\IT\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\features\http2.js132975246111142563 0
 73D:\IT\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\features\http3.js132975246111162514 0
@@ -4796,7 +4853,7 @@
 91D:\IT\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\features\registerprotocolhandler.js132975246122312894 0
 82D:\IT\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\features\rel-noreferrer.js132975246122362720 0
 83D:\IT\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\features\resource-timing.js132975246122435213 0
-53D:\IT\GoIT\goit-js-hw-09\dist\03-promises.cd58c9ff.js132976317800411247 0
+53D:\IT\GoIT\goit-js-hw-09\dist\03-promises.cd58c9ff.js132976324625681755 0
 72D:\IT\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\features\ruby.js132975246122544916 0
 74D:\IT\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\features\run-in.js132975246122564876 0
 94D:\IT\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\features\same-site-cookie-attribute.js132975246122604753 0
@@ -4909,7 +4966,7 @@
 53D:\IT\GoIT\goit-js-hw-09\node_modules\async\concat.js132976321024001063 0
 55D:\IT\GoIT\goit-js-hw-09\node_modules\async\constant.js132976321024432206 0
 58D:\IT\GoIT\goit-js-hw-09\node_modules\async\detectLimit.js132976321024781268 0
-48D:\IT\GoIT\goit-js-hw-09\node_modules\async\dist132976321022921367 1
+48D:\IT\GoIT\goit-js-hw-09\node_modules\async\dist132976321029608920 1
 53D:\IT\GoIT\goit-js-hw-09\node_modules\async\during.js132976321025321300 0
 51D:\IT\GoIT\goit-js-hw-09\node_modules\async\each.js132976321025391453 0
 56D:\IT\GoIT\goit-js-hw-09\node_modules\async\eachLimit.js132976321025481234 0
@@ -4943,7 +5000,7 @@
 59D:\IT\GoIT\goit-js-hw-09\node_modules\async\groupByLimit.js132976321026731202 0
 60D:\IT\GoIT\goit-js-hw-09\node_modules\async\groupBySeries.js132976321026751160 0
 52D:\IT\GoIT\goit-js-hw-09\node_modules\async\index.js132976321026830938 0
-52D:\IT\GoIT\goit-js-hw-09\node_modules\async\internal132976321028491386 1
+52D:\IT\GoIT\goit-js-hw-09\node_modules\async\internal132976321029469282 1
 51D:\IT\GoIT\goit-js-hw-09\node_modules\async\LICENSE132976321016656732 0
 74D:\IT\GoIT\goit-js-hw-09\node_modules\@swc\helpers\lib\_read_only_error.js132975246028971663 0
 50D:\IT\GoIT\goit-js-hw-09\node_modules\async\map.js132976321026990920 0
@@ -5015,7 +5072,7 @@
 57D:\IT\GoIT\goit-js-hw-09\node_modules\array-union\license132976321019150076 0
 59D:\IT\GoIT\goit-js-hw-09\node_modules\array-union\readme.md132976321020057648 0
 60D:\IT\GoIT\goit-js-hw-09\node_modules\ansi-styles\index.d.ts132975245973619630 0
-57D:\IT\GoIT\goit-js-hw-09\dist\03-promises.cd58c9ff.js.map132976317800431247 0
+57D:\IT\GoIT\goit-js-hw-09\dist\03-promises.cd58c9ff.js.map132976324625801423 0
 58D:\IT\GoIT\goit-js-hw-09\node_modules\ansi-styles\index.js132975245967736107 0
 62D:\IT\GoIT\goit-js-hw-09\node_modules\ansi-styles\package.json132975245969541767 0
 59D:\IT\GoIT\goit-js-hw-09\node_modules\ansi-styles\readme.md132975245970539086 0
@@ -5052,6 +5109,7 @@
 61D:\IT\GoIT\goit-js-hw-09\node_modules\@trysound\sax\README.md132975245972903898 0
 50D:\IT\GoIT\goit-js-hw-09\node_modules\@swc\helpers132975246037528241 1
 54D:\IT\GoIT\goit-js-hw-09\node_modules\@swc\helpers\lib132975246037059534 1
+115D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\index132976323470213338 0
 63D:\IT\GoIT\goit-js-hw-09\node_modules\@swc\helpers\package.json132975245966307579 0
 54D:\IT\GoIT\goit-js-hw-09\node_modules\@swc\helpers\src132975246050096213 1
 85D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\watcher\src\shared\BruteForceBackend.hh132975245998623487 0
@@ -5117,6 +5175,7 @@
 79D:\IT\GoIT\goit-js-hw-09\node_modules\@swc\helpers\src\_wrap_async_generator.js132975246050036389 0
 81D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\workers\lib\process\ProcessChild.js132975246008766087 0
 76D:\IT\GoIT\goit-js-hw-09\node_modules\@swc\helpers\src\_wrap_native_super.js132975246050086230 0
+127D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\logs\refs\remotes132976323440160227 1
 63D:\IT\GoIT\goit-js-hw-09\node_modules\@swc\helpers\lib\index.js132975246037278909 0
 78D:\IT\GoIT\goit-js-hw-09\node_modules\@swc\helpers\lib\_array_like_to_array.js132975245969721268 0
 75D:\IT\GoIT\goit-js-hw-09\node_modules\@swc\helpers\lib\_array_with_holes.js132975245970987904 0
@@ -5189,7 +5248,7 @@
 57D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\packager-js132975246001013448 1
 58D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\packager-raw132975245971147479 1
 52D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\plugin132975245971117537 1
-54D:\IT\GoIT\goit-js-hw-09\dist\02-timer.f9388f03.js.map132976314384404711 0
+54D:\IT\GoIT\goit-js-hw-09\dist\02-timer.f9388f03.js.map132976325243037367 0
 65D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\reporter-dev-server132975246000634459 1
 56D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\runtime-js132975246021433210 1
 56D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\source-map132975246039522908 1
@@ -5249,6 +5308,7 @@
 68D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\watcher\src\Watcher.hh132975246009673664 0
 66D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\watcher\src\watchman132975246010413134 1
 65D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\watcher\src\windows132975246012678594 1
+120D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\refs\heads132976323470761835 1
 70D:\IT\GoIT\goit-js-hw-09\node_modules\@mischnic\json-sourcemap\LICENSE132975245966599155 0
 83D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\watcher\src\windows\WindowsBackend.cc132975245995173834 0
 83D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\watcher\src\windows\WindowsBackend.hh132975246012818218 0
@@ -5319,6 +5379,7 @@
 69D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\transformer-svg\LICENSE132975245966609124 0
 65D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\transformer-svg\src132975245983870228 1
 66D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\transformer-svg\test132975245982144556 1
+125D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\02-timer.8c6cc146.js132976323455198048 0
 83D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\transformer-svg\src\SVGTransformer.js132975245988512388 0
 83D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\transformer-svg\lib\SVGTransformer.js132975245983301745 0
 84D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\transformer-react-refresh-wrap\LICENSE132975245966619096 0
@@ -5351,9 +5412,11 @@
 66D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\transformer-json\lib132975245967835841 1
 75D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\transformer-json\package.json132975245971815668 0
 85D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\transformer-json\src\JSONTransformer.js132975245970050387 0
+125D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\02-timer.4233af01.js132976323455168155 0
 78D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\transformer-js\native-browser.js132975245988925856 0
 73D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\transformer-js\package.json132975245993019594 0
 87D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\transformer-js\parcel-swc.darwin-x64.node132975246052744033 0
+120D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\objects\c4132976323467839755 1
 92D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\transformer-js\parcel-swc.linux-arm64-gnu.node132975246065608902 0
 91D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\transformer-js\parcel-swc.linux-x64-musl.node132975246084375606 0
 91D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\transformer-js\parcel-swc.win32-x64-msvc.node132975246089641879 0
@@ -5366,7 +5429,7 @@
 71D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\transformer-image\LICENSE132975245966649057 0
 67D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\transformer-image\src132975245982962664 1
 87D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\transformer-image\src\ImageTransformer.js132975245970050387 0
-43D:\IT\GoIT\goit-js-hw-09\dist\02-timer.html132976323346020899 0
+43D:\IT\GoIT\goit-js-hw-09\dist\02-timer.html132976325805122489 0
 59D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\css\README.md132975245980329248 0
 66D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\transformer-html\lib132975245980339221 1
 66D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\transformer-html\src132975245983152149 1
@@ -5544,6 +5607,7 @@
 74D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\package-manager\src\utils.js132975246015084363 0
 92D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\package-manager\src\validateModuleSpecifier.js132975246015868419 0
 73D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\package-manager\src\Yarn.js132975246017939702 0
+120D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\objects\1b132976323458268006 1
 74D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\package-manager\lib\index.js132975245979681000 0
 78D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\package-manager\lib\index.js.map132975246027132964 0
 76D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\package-manager\lib\types.d.ts132975246027442513 0
@@ -5594,6 +5658,7 @@
 109D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-alias-glob132975246038375978 1
 112D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser-alias132975246038535552 1
 114D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser-exclude132975246038585416 1
+129D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\02-timer.f9388f03.js.map132976323455387547 0
 107D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-fallback132975246038705093 1
 103D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-main132975246038904563 1
 114D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-module-fallback132975246038954426 1
@@ -5610,6 +5675,7 @@
 116D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-fallback\index.js132975246018896326 0
 120D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-fallback\package.json132975246038725061 0
 122D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser-exclude\main.js132975246027582143 0
+159D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\objects\dd\83bb7cbed59bd479e35223107c61bf33cff54b132976323466857251 0
 119D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser-alias\foo.js132975246009663687 0
 120D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser-alias\main.js132975246027292857 0
 134D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser-alias\subfolder1\subfolder2132975246033602522 1
@@ -5810,6 +5876,7 @@
 69D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\core\lib\projectPath.js132975246041932696 0
 72D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\core\lib\ReporterRunner.js132975246042241855 0
 63D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\core\lib\requests132975246050531466 1
+120D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\objects\98132976323460054242 1
 72D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\core\lib\RequestTracker.js132975246042341583 0
 72D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\core\lib\resolveOptions.js132975246048670012 0
 68D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\core\lib\serializer.js132975246048899409 0
@@ -5842,6 +5909,7 @@
 81D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\compressor-raw\lib\RawCompressor.js132975245968454187 0
 59D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\codeframe\lib132975246011919288 1
 63D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\codeframe\LICENSE132975245966295648 0
+120D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\objects\6c132976323466159456 1
 59D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\codeframe\src132975246009324594 1
 60D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\codeframe\test132975246009613818 1
 74D:\IT\GoIT\goit-js-hw-09\node_modules\@parcel\codeframe\test\fixtures\a.js132975245968863569 0
@@ -5913,6 +5981,96 @@
 68D:\IT\GoIT\goit-js-hw-09\node_modules\@babel\code-frame\package.json132975245970858251 0
 65D:\IT\GoIT\goit-js-hw-09\node_modules\@babel\code-frame\README.md132975245967566551 0
 68D:\IT\GoIT\goit-js-hw-09\node_modules\@babel\code-frame\lib\index.js132975245969691347 0
+52D:\IT\GoIT\goit-js-hw-09\dist\index.bb7ee48f.css.map132976323346320123 0
+53D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages132976323360519852 1
+104D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git132976323455138232 1
+134D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\01-color-switcher.5048cd28.js132976323455148195 0
+129D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\02-timer.6754fc4e.js.map132976323455188077 0
+125D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\02-timer.6799696b.js132976323455277842 0
+129D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\02-timer.6799696b.js.map132976323455277842 0
+129D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\02-timer.8c6cc146.js.map132976323455347652 0
+125D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\02-timer.d39e505d.js132976323455277842 0
+129D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\02-timer.d39e505d.js.map132976323455287805 0
+118D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\02-timer.html132976323455208026 0
+132D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\03-promises.2c761612.js.map132976323455208026 0
+128D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\03-promises.367843e4.js132976323455237946 0
+132D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\03-promises.367843e4.js.map132976323455208026 0
+128D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\03-promises.cd58c9ff.js132976323455307750 0
+132D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\03-promises.cd58c9ff.js.map132976323455367608 0
+130D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\goit-js-hw-09.59712999.js132976323455227965 0
+134D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\goit-js-hw-09.59712999.js.map132976323455227965 0
+127D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\index.101ee4ef.css.map132976323455227965 0
+123D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\index.bb7ee48f.css132976323455237946 0
+127D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\index.bb7ee48f.css.map132976323455237946 0
+116D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\config132976323469181509 0
+121D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\description132976323360579688 0
+120D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\FETCH_HEAD132976323448923796 0
+114D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\HEAD132976323453990822 0
+115D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\hooks132976323360719330 1
+121D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\packed-refs132976323440120331 0
+114D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\refs132976323440140279 1
+122D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\refs\remotes132976323440140279 1
+119D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\refs\tags132976323360749245 1
+129D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\refs\remotes\origin132976323498281718 1
+138D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\refs\remotes\origin\gh-pages132976323498241837 0
+129D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\refs\heads\gh-pages132976323470751859 0
+125D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\refs\heads\main132976323440240012 0
+120D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\objects\00132976323466827262 1
+120D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\objects\09132976323456940769 1
+120D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\objects\1d132976323459714242 1
+120D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\objects\1e132976323457485322 1
+120D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\objects\33132976323461721890 1
+120D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\objects\49132976323466496219 1
+120D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\objects\72132976323460833123 1
+120D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\objects\86132976323456602182 1
+120D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\objects\9d132976323457160218 1
+120D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\objects\a0132976323462941381 1
+120D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\objects\a3132976323459275308 1
+120D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\objects\a4132976323458936200 1
+120D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\objects\be132976323463605159 1
+120D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\objects\c1132976323470193467 1
+120D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\objects\cb132976323465747422 1
+120D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\objects\dd132976323467164728 1
+120D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\objects\e3132976323462606157 1
+120D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\objects\fa132976323461275447 1
+122D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\objects\info132976323360898849 1
+159D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\objects\d9\5e3a1c760e3d6812bfc22fcf1094bdd4ede803132976323460094172 0
+159D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\objects\d7\59569c551ee32ed1b948f9daaccf08d8c2f9d9132976323464966666 0
+159D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\objects\cb\c109c4c64ab48544e73dd0ac3245d39b3551ff132976323465299710 0
+159D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\objects\be\28fc7dee3684ec75c67ef56d33bb0909e8598a132976323463288152 0
+159D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\objects\a7\e9fea49f80880b05006f75c81fe579faa3ba1d132976323470412805 0
+159D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\objects\a4\15482b9ecf62751af71f224eb7de6a87c5e6f8132976323458287925 0
+159D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\objects\a3\94a120d5d15b466c9713a5b1e639fe299789e0132976323458946169 0
+159D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\objects\a0\2cf55fb819413a6508a29889bb3adcf999de0a132976323462624550 0
+159D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\objects\9d\7a15988a2fa926c8149b270f2ff20ba5508bff132976323456950755 0
+159D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\objects\98\7f2325bdf0ccfd642735c3f017b81a33af3316132976323459764171 0
+159D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\objects\8b\c7a280b74d7e2ba130fde3c14d985fe8c7a042132976323462961374 0
+159D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\objects\86\3cc637dc801fcdb548ef2a0a06c9aad89dd552132976323456393582 0
+159D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\objects\7e\adfcec470aac4bc9e81654956305304b2b7fee132976323464693458 0
+159D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\objects\78\657af168acc2dba0e70ca5590d7e9c112392dc132976323467212642 0
+159D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\objects\6c\68d982f539ced2d8e32f3b3add3b582a301326132976323465827156 0
+159D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\objects\62\bc181c720496a1c9b6a6930094a4719974a11a132976323467899710 0
+159D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\objects\1e\5bd6f14e84e21dfdc1bea9ea36b38a2ce4e0c0132976323455736611 0
+139D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\logs\refs\remotes\origin\HEAD132976323440180172 0
+159D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\objects\1e\c339842eba510a5b5931764f1183ebbfb393ca132976323457170169 0
+159D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\objects\10\8dd56a899f16ff1193e81bb45e579969b2cde0132976323464351583 0
+159D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\objects\0c\4bbd9de7d605d62597f7c7940574f4bb73f3b0132976323457535196 0
+159D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\objects\09\68deca912236e43c8cfe3d3f43a9f6edc2ded2132976323456622147 0
+159D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\objects\00\835043eb56c3f12dc639c0b57e4e2071b444a2132976323466525028 0
+119D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\logs\HEAD132976323470761835 0
+119D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\logs\refs132976323440249985 1
+125D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\logs\refs\heads132976323470761835 1
+134D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\logs\refs\remotes\origin132976323498251810 1
+143D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\logs\refs\remotes\origin\gh-pages132976323498271756 0
+130D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\logs\refs\heads\main132976323440259960 0
+122D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\info\exclude132976323360729297 0
+137D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\hooks\applypatch-msg.sample132976323360609611 0
+134D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\hooks\post-update.sample132976323360649508 0
+131D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\hooks\pre-push.sample132976323360679421 0
+134D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\hooks\pre-receive.sample132976323360699368 0
+141D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\hooks\prepare-commit-msg.sample132976323360699368 0
+139D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\hooks\push-to-checkout.sample132976323360709356 0
+129D:\IT\GoIT\goit-js-hw-09\node_modules\.cache\gh-pages\https!github.com!romanblyashuk94!goit-js-hw-09.git\.git\hooks\update.sample132976323360719330 0
 48D:\IT\GoIT\goit-js-hw-09\node_modules\.bin\acorn132975246125508184 0
 52D:\IT\GoIT\goit-js-hw-09\node_modules\.bin\acorn.cmd132975246125488282 0
 52D:\IT\GoIT\goit-js-hw-09\node_modules\.bin\acorn.ps1132975246125488282 0
@@ -5931,15 +6089,17 @@
 51D:\IT\GoIT\goit-js-hw-09\node_modules\.bin\svgo.ps1132975246125528152 0
 49D:\IT\GoIT\goit-js-hw-09\node_modules\.bin\terser132975246125528152 0
 54D:\IT\GoIT\goit-js-hw-09\dist\02-timer.4233af01.js.map132976323346340050 0
+50D:\IT\GoIT\goit-js-hw-09\dist\02-timer.77d7e4c0.js132976325805132459 0
+54D:\IT\GoIT\goit-js-hw-09\dist\02-timer.77d7e4c0.js.map132976325805292209 0
 54D:\IT\GoIT\goit-js-hw-09\dist\02-timer.8c6cc146.js.map132976323346330071 0
+50D:\IT\GoIT\goit-js-hw-09\dist\02-timer.ae334a12.js132976325805132459 0
 50D:\IT\GoIT\goit-js-hw-09\dist\02-timer.d39e505d.js132976323346040852 0
-50D:\IT\GoIT\goit-js-hw-09\dist\02-timer.f9388f03.js132976314384304983 0
+50D:\IT\GoIT\goit-js-hw-09\dist\02-timer.f9388f03.js132976325242987573 0
 53D:\IT\GoIT\goit-js-hw-09\dist\03-promises.2c761612.js132976323346020899 0
 57D:\IT\GoIT\goit-js-hw-09\dist\03-promises.2c761612.js.map132976323346300156 0
 53D:\IT\GoIT\goit-js-hw-09\dist\03-promises.367843e4.js132976306271961172 0
 57D:\IT\GoIT\goit-js-hw-09\dist\03-promises.367843e4.js.map132976306271961172 0
 53D:\IT\GoIT\goit-js-hw-09\dist\03-promises.efd32145.js132976323346020899 0
 57D:\IT\GoIT\goit-js-hw-09\dist\03-promises.efd32145.js.map132976323346300156 0
-59D:\IT\GoIT\goit-js-hw-09\dist\goit-js-hw-09.59712999.js.map132976314384404711 0
-48D:\IT\GoIT\goit-js-hw-09\dist\index.101ee4ef.css132976314384304983 0
-52D:\IT\GoIT\goit-js-hw-09\dist\index.bb7ee48f.css.map132976323346320123 0
+59D:\IT\GoIT\goit-js-hw-09\dist\goit-js-hw-09.59712999.js.map132976324625801423 0
+48D:\IT\GoIT\goit-js-hw-09\dist\index.101ee4ef.css132976324625292805 0
