@@ -31,7 +31,7 @@ function onStartBtnClick() {
     const currentDate = Date.now();
     const timeToFinish = selectedDate - currentDate;
 
-    if (timeDifference <= 1000) {
+    if (timeToFinish <= 1000) {
       clearInterval(timerId);
       Notiflix.Report.success("Congratulations!", "Time is over!!!", "Okay");
     }
