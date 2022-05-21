@@ -4,9 +4,12 @@
   "description": "",
   "source": "src/index.html",
   "browserslist": "> 0.5%, last 2 versions, not dead",
+  "homepage": "https://romanblyashuk94.github.io/goit-js-hw-09",
   "scripts": {
     "start": "parcel",
-    "build": "parcel build"
+    "build": "parcel build --public-url /goit-js-hw-09/",
+    "deploy": "gh-pages -d dist",
+    "predeploy": "npm run build"
   },
   "author": "",
   "license": "ISC",
@@ -15,6 +18,7 @@
   },
   "dependencies": {
     "flatpickr": "^4.6.13",
+    "gh-pages": "^4.0.0",
     "notiflix": "^3.2.5"
   }
 }
